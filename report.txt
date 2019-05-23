@@ -1,0 +1,83 @@
+
+
+
+
+
+
+
+
+
+					ACME Sports Inc.
+			"We are the best, you use the best!"
+
+					ACME
+
+Emp#	   Name		Dept.	 New YTD	Gross	     FICA	    Net
+
+6      Azua     Amado  Acct	110,629.60    529.60      0.00    529.60
+10     Barry     Kevin  Acct	 67,971.52  1,371.52     97.38  1,274.14
+22     Bolen     Tyler  Acct	 36,700.00    100.00      7.10     92.90
+24    Cabell    Alecia  Acct	111,605.71  1,515.71      0.71  1,515.00
+
+
+Page Totals:					$3,516.83  $  105.19  $3,411.64
+
+										Page 1
+
+					ACME
+
+Emp#	   Name		Dept.	 New YTD	Gross	     FICA	    Net
+
+13     Finch   Heather  Acct	  2,335.84    977.50     69.40    908.10
+		Department Totals:		  4,494.33    174.59  4,319.74
+
+5    Fulton     Scott    DP	110,100.00     10.00      0.71      9.29
+		Department Totals:		     10.00      0.71      9.29
+
+3    Hailes     Debra   Mgt	680,980.69  7,502.40      0.00  7,502.40
+1    Hantol     Hatan   Mgt	138,574.50  4,340.16      0.00  4,340.16
+		Department Totals:		 11,842.56      0.00 11,842.56
+
+
+
+Page Totals:					$12,830.06  $   70.11  $12,759.95
+
+										Page 2
+
+					ACME
+
+Emp#	   Name		Dept.	 New YTD	Gross	     FICA	    Net
+
+4     Jones  Nicholas Sales	 13,269.40  1,924.18    136.62  1,787.56
+12   Kucharz   Zachary Sales	    917.64    683.08     48.50    634.59
+17     Noman     Ahmed Sales	  3,690.76  1,348.42     95.74  1,252.69
+7    Robson    Nathan Sales	 68,369.20  1,369.20     97.21  1,271.99
+		Department Totals:		  5,324.89    378.07  4,946.82
+
+
+
+Page Totals:					$5,324.89  $  378.07  $4,946.82
+
+										Page 3
+
+					ACME
+
+Emp#	   Name		Dept.	 New YTD	Gross	     FICA	    Net
+
+86      Rock      Kyle Inven	 12,875.38    529.60     37.60    492.00
+66  Shefstad   Garrett Inven	114,440.27  4,441.52      7.19  4,434.33
+51     Smith    Andrew Inven	206,700.00    100.00      0.00    100.00
+38     Stair   Spencer Inven	 80,227.27  1,885.28    133.85  1,751.42
+		Department Totals:		  6,956.40    178.64  6,777.75
+
+Page Totals:					$6,956.40  $  178.64  $6,777.75
+
+										Page 4					Report Summary
+
+Records processed: 16
+Total Gross: $28,628.18
+Total Net:   $27,896.17
+Total FICA:  $   732.01
+
+
+									Page 5
